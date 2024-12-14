@@ -1,8 +1,8 @@
-# In-Depth Analysis of Olympic Athletes (1900-2016)
+# In-Depth Analysis of Olympic Athletes and Countries (1900-2016)
 
 ## Project Overview
 
-This project presents an in-depth analysis of Olympic athletes from the years 1900 to 2016, focusing on medal tallies, trends in age and gender, and insights into the performance of athletes in various sports. The analysis includes:
+This project presents an in-depth analysis of Olympic athletes and Countries from the years 1900 to 2016, focusing on medal tallies, trends in age and gender, and insights into the performance of athletes in various sports. The analysis includes:
 
 - **Medal Tally by Country**: A comprehensive breakdown of the number of medals earned by countries throughout the years.
 - **Age Group and Gender Analysis**: Investigating which age groups and genders are more likely to win medals, and why certain younger athletes dominate in sports like gymnastics.
